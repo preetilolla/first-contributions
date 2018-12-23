@@ -675,6 +675,7 @@ Nguyen Khoa
 - Param Thakker
 - [Nam Hyun Wook](https://github.com/hw0k)
 - [MercinQ]
+- Preeti Lolla [https://github.com/preetilolla/]
 - [MYusuf](https://github.com/mohamadyusuf19)
 - [Fu Lin Liu](https://github.com/fulin426)
 - [vieko](https://github.com/vieko)
